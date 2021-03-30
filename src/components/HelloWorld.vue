@@ -1,5 +1,5 @@
 <template>
-    <figure class="md:flex bg-gray-100 rounded-xl p-8 md:p-0">
+    <figure class="md:flex mx-40 sm:mx-10 shadow-xl bg-yellow-50 rounded-xl p-8 md:p-0">
   <img class="w-32 h-32 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="../assets/zimzalabim.jpg" alt="" width="384" height="512">
   <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
